@@ -1,25 +1,18 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
-  "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "TRAIN_NO": "16103",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "08/09/2026",
+  "SOURCE_STATION": "TBM",
+  "BOARDING_STATION": "TBM",
+  "DESTINATION_STATION": "PMK",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Gokul R",
+      "AGE": 24,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
